@@ -14,4 +14,5 @@ In order to open this program, you need a 2019.2.20f1 or higher Unity installed 
 ----
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Flappy-Bird) 
+
 Copyright (c) 2021 Parinaz Mirbagheri
